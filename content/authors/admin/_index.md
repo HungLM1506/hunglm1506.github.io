@@ -1,4 +1,4 @@
----
+g--
 # Display name
 title: 吳健雄
 
@@ -54,7 +54,7 @@ interests:
   - Medical Image Analysis
 
 education:
- - area: Engineer of Engineering in Electronics and Telecommunications
+  - area: Engineer of Engineering in Electronics and Telecommunications
     institution: Hanoi University of Science and Technology
     date_start: 2019-09-01
     date_end: 2024-09-28
