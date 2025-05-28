@@ -3,7 +3,7 @@
 title: Le Minh Hung
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Minh Hung
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'leminhhung933@gmail.com'
+    url: "leminhhung933@gmail.com"
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -68,9 +68,9 @@ work:
   - position: AI Engineer
     company_name: AvePiont Inc
     company_url: https://www.avepoint.com/
-    company_logo: ''
+    company_logo: ""
     date_start: 2024-10-01
-    date_end: Present
+    date_end: ""
     summary: |2-
       Responsibilities include:
       - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and agentic workflows
@@ -79,7 +79,7 @@ work:
   - position: AI Researche Assisstant
     company_name: SigM Lab - Hanoi University of Science and Technology
     company_url: https://www.facebook.com/people/SigM-lab/61552247136375/?_rdr
-    company_logo: ''
+    company_logo: ""
     date_start: 2023-01-01
     date_end: 2024-10-01
     summary: |
@@ -93,31 +93,31 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 80
         icon: code-bracket
       - name: Data Science
-        description: ''
+        description: ""
         percent: 100
         icon: chart-bar
       - name: SQL
-        description: ''
+        description: ""
         percent: 40
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Hiking
-        description: ''
+        description: ""
         percent: 60
         icon: person-simple-walk
       - name: Cats
-        description: ''
+        description: ""
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
+        description: ""
         percent: 80
         icon: camera
 
@@ -130,14 +130,14 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: "2023-11-25"
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: "2023-07-01"
     awarder: edX
     icon: edx
     summary: |
@@ -145,10 +145,10 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: "Object-Oriented Programming in R"
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: "2023-01-21"
     awarder: datacamp
     icon: datacamp
     summary: |
@@ -156,4 +156,5 @@ awards:
 ---
 
 ## About Me
+
 Le Minh Hung is a passionate AI researcher with a strong background in computer vision (CV) and natural language processing (NLP). His research focuses on multimodal artificial intelligence, medical imaging, and the detection of mental health conditions. Committed to exploring innovative AI solutions, Hung seeks to bridge disciplines and address complex real-world problems through cutting-edge technologies.
