@@ -1,9 +1,9 @@
-g--
+---
 # Display name
-title: 吳健雄
+title: Le Minh Hung
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Minh Hung
@@ -67,7 +67,7 @@ education:
 work:
   - position: AI Engineer
     company_name: AvePiont Inc
-    company_url: 'url: https://www.avepoint.com/'
+    company_url: url: https://www.avepoint.com/
     company_logo: ''
     date_start: 2024-10-01
     date_end: Present
@@ -78,7 +78,7 @@ work:
       - Researched application of Large Language Model (LLMs) in technical and enterprise contexts
   - position: AI Researche Assisstant
     company_name: SigM Lab - Hanoi University of Science and Technology
-    company_url: 'https://www.facebook.com/people/SigM-lab/61552247136375/?_rdr'
+    company_url: https://www.facebook.com/people/SigM-lab/61552247136375/?_rdr
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-10-01
@@ -156,5 +156,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Le Minh Hung is a passionate AI researcher with a strong background in computer vision (CV) and natural language processing (NLP). His research focuses on multimodal artificial intelligence, medical imaging, and the detection of mental health conditions. Committed to exploring innovative AI solutions, Hung seeks to bridge disciplines and address complex real-world problems through cutting-edge technologies.
