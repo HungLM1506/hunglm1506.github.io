@@ -67,7 +67,7 @@ education:
 work:
   - position: AI Engineer
     company_name: AvePiont Inc
-    company_url: url: https://www.avepoint.com/
+    company_url: https://www.avepoint.com/
     company_logo: ''
     date_start: 2024-10-01
     date_end: Present
