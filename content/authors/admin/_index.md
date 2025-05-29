@@ -95,27 +95,27 @@ skills:
       - name: Python
         description: ""
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: python
+      - name: Docker
         description: ""
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: cube
+      - name: MLOps
         description: ""
         percent: 40
-        icon: circle-stack
+        icon: server-cog
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Gym
         description: ""
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: dumbbell
+      - name: Reading Book
         description: ""
         percent: 100
-        icon: cat
+        icon: book-open
       - name: Photography
         description: ""
         percent: 80
@@ -157,4 +157,4 @@ languages:
 
 ## About Me
 
-Le Minh Hung is a passionate AI researcher with a strong background in computer vision (CV) and natural language processing (NLP). His research focuses on multimodal artificial intelligence, medical imaging, and the detection of mental health conditions. Committed to exploring innovative AI solutions, Hung seeks to bridge disciplines and address complex real-world problems through cutting-edge technologies.
+Le Minh Hung is a passionate AI researcher with a background in computer vision (CV) and natural language processing (NLP). Currently his research focuses on multimodal artificial intelligence, medical imaging, and the detection of mental health conditions. Committed to exploring innovative AI solutions, Hung seeks to bridge disciplines and address complex real-world problems through cutting-edge technologies.
