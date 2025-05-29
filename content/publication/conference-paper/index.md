@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ""
+url_pdf: "https://openaccess.thecvf.com/content/ACCV2024W/MLCSA2024/papers Minh_3-D_Reconstruction_from_consecutive_endoscopic_images_using_Gaussian_Splatting_ACCVW_2024_paper.pdf"
 url_code: "git@github.com:HungLM1506/IGH_Endo_GS.git"
 
 # Featured image
