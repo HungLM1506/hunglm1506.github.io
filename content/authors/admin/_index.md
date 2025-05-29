@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "leminhhung933@gmail.com"
+    url: leminhhung933@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -71,7 +71,7 @@ work:
     company_logo: ""
     date_start: 2024-10-01
     date_end: ""
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and agent AI
       - Built scalable MLOps pipelines for training evaluation and deployment of large model
