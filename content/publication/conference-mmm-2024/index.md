@@ -1,24 +1,20 @@
 ---
-title: "3-D Reconstruction from Consecutive Endoscopic Images Using Gaussian Splatting"
+title: "Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Duc-Le Ngoc
   - Hung-Le Minh
-  - Duy-Van Truong
-  - Huy-Xuan Manh
-  - Viet-Hang Dao
-  - Phuc-Binh Nguyen
-  - Thanh-Tung Nguyen
-  - Hai-Vu
-
+  - Dinh-Vinh Quang
 # Author notes (optional)
 author_notes:
   - "Equal contribution"
+  - "Equal contribution"
 
-date: "2025-03-28T00:00:00Z"
-doi: https://doi.org/10.1007/978-981-96-2644-1_10
+date: "2024-02-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-29T00:00:00Z"
@@ -29,16 +25,16 @@ publishDate: "2025-05-29T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computer Vision – ACCV 2024 Workshops*
-publication_short: In *ACCV*
+publication: In *Multimedia Evaluation Workshop*
+publication_short: In *MMM*
 
-abstract: Recent advancements in 3D reconstruction helped endoscopy doctors analyze the patients’ gastrointestinal surfaces and abnormality detections. In this work, we expand this development further with a reconstruction method based on both classic techniques like structure from motion and recent advanced techniques like neural radiation fields and Gaussian splatting with new Gaussian encoding-decoding modules. In addition, an unique dataset was collected with some videos from daily endoscopy examinations. This development helped us achieve better reconstruction results and lower training time compared to existing methods.
+abstract: Among multimodal tasks, olfactory perception remains a largely unexplored field. The two most significant difficulties that need to be overcome are that the label space is ample while the data set size is generally of too small volume. The second is the imbalanced nature of labels in the data set. In this paper, we develop and evaluate our model in the task of predicting the congruence of olfactory experiences between an image and a corresponding text passage on the MUSTI dataset. To solve the label imbalance problem and optimize the process of extracting multimedia images and text with large feature spaces, we propose a model that selectively selects the text features based on image features. By selecting texts that need attention, our model outperforms existing baselines on training and testing data sets.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - 3D Recontruction
+  - Vison Language
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,8 +44,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://link.springer.com/chapter/10.1007/978-981-96-2644-1_10"
-url_code: "git@github.com:HungLM1506/IGH_Endo_GS.git"
+url_pdf: "https://ceur-ws.org/Vol-3658/paper5.pdf"
+url_code: "git@github.com:HungLM1506/MMM2024.git"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
