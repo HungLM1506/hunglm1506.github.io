@@ -32,14 +32,13 @@ publication_types: ["paper-conference"]
 publication: In *Computer Vision – ACCV 2024 Workshops*
 publication_short: In *ACCV*
 
-abstract: Recent advancements in 3D reconstruction helped endoscopy
-doctors analyze the patients’ gastrointestinal surfaces and abnormality detections. In this work, we expand this development further with a reconstruction method based on both classic techniques like structure from motion and recent advanced techniques like neural radiation fields and Gaussian splatting with new Gaussian encoding-decoding modules. In addition, an unique dataset was collected with some videos from daily endoscopy examinations. This development helped us achieve better reconstruction results and lower training time compared to existing methods.
+abstract: Recent advancements in 3D reconstruction helped endoscopy doctors analyze the patients’ gastrointestinal surfaces and abnormality detections. In this work, we expand this development further with a reconstruction method based on both classic techniques like structure from motion and recent advanced techniques like neural radiation fields and Gaussian splatting with new Gaussian encoding-decoding modules. In addition, an unique dataset was collected with some videos from daily endoscopy examinations. This development helped us achieve better reconstruction results and lower training time compared to existing methods.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - 3D Recontruction 
+  - 3D Recontruction
 
 # Display this page in the Featured widget?
 featured: true
@@ -58,7 +57,6 @@ image:
   caption: "Architecture"
   focal_point: ""
   preview_only: false
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
