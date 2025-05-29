@@ -73,7 +73,7 @@ work:
     date_end: ""
     summary: |
       Responsibilities include:
-      - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and agent AI
+      - Developed and deployed chatbot systems using Retrieval-Augmented Generation (RAG) and AI agents
       - Built scalable MLOps pipelines for training evaluation and deployment of large model
       - Researched application of Large Language Model (LLMs) in technical and enterprise contexts
   - position: AI Research Assistant
