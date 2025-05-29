@@ -54,7 +54,7 @@ url_code: "git@github.com:HungLM1506/IGH_Endo_GS.git"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Architecture"
+  caption: "[**Architecture**](content/publication/conference-paper/Architecture.png)"
   focal_point: ""
   preview_only: false
 # Associated Projects (optional).
