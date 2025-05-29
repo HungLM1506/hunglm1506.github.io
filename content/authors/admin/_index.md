@@ -157,4 +157,4 @@ languages:
 
 ## About Me
 
-Le Minh Hung is a passionate AI researcher with a background in computer vision (CV) and natural language processing (NLP). Currently his research focuses on multimodal artificial intelligence, medical imaging, and the detection of mental health conditions. Committed to exploring innovative AI solutions, Hung seeks to bridge disciplines and address complex real-world problems through cutting-edge technologies.
+Le Minh Hung is a passionate AI researcher with a background in computer vision (CV) and natural language processing (NLP). Currently, his research focuses on multimodal artificial intelligence, medical imaging, and the detection of mental health conditions. Committed to exploring innovative AI solutions, Hung seeks to bridge disciplines and address complex real-world problems through cutting-edge technologies.
